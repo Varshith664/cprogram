@@ -8,12 +8,9 @@ main()
 	{
 		printf("postive");
 	}
-	else if(a<0)
+	else
 	{
 		printf("negative");
 	}
-	else
-	     {
-	       printf("zero");	
-		 }
+
 }
